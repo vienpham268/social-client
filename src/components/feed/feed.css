@@ -1,0 +1,8 @@
+.feed {
+  flex: 7;
+}
+
+.feedWrapper {
+  padding: 25px 100px 0 100px;
+  background-color: #ececec;
+}

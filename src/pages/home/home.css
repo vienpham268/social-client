@@ -1,0 +1,11 @@
+.homeContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #ececec;
+}
+.homeWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1700px;
+}
