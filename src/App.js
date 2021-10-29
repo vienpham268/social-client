@@ -14,6 +14,7 @@ import Register from "./pages/register/Register";
 
 function App() {
   const { currentUser } = useContext(AuthContext);
+  
   return (
     <Router>
       <Switch>

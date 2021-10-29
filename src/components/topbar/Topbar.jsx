@@ -76,10 +76,10 @@ export default function Topbar() {
             />
           </Link>
 
-          <div className="topbarRightItem">
+          <Link className="topbarRightItem" to="/messenger">
             <Chat className="topbarRightIcon" htmlColor="black" />
             <span className="topbarIconBadge">2</span>
-          </div>
+          </Link>
           <div className="topbarRightItem">
             <Notifications className="topbarRightIcon" htmlColor="black" />
             <span className="topbarIconBadge">1</span>
